@@ -32,5 +32,5 @@ else{
     Write-Host "El servicio $serviceName no existe."
 }
 
-# Pedimos que se presione cualquier tecla para salir
+# Pedimos cualquier tecla para salir
 Read-Host "Presiona cualquier tecla para salir..."
